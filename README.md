@@ -26,7 +26,7 @@ A lightweight, responsive playground that lets you write and preview HTML and CS
 
 ```bash
 # Clone this repo
-git clone https://github.com/your-username/html-css-playground.git
+git clone https://github.com/vibeless-coder/html-css-playground.git
 cd html-css-playground
 
 # Install dependencies
